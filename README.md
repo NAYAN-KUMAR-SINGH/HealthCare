@@ -5,7 +5,7 @@
     </a>
   <br /> -->
 
-  ## <h3 align="center">A HealthCare Management System</h3>
+   <h3 align="center">A HealthCare Management System</h3>
 
 
   <div>
@@ -997,7 +997,7 @@ export const StatusIcon = {
 
 ## <a name="links">🔗 Assets</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/file/d/1yGvWFeSaH1_-aiQ1gejT23lqz5979RKB/view?usp=sharing)
+Public assets used in the project can be found [here](https://drive.google.com/file/d/1IEGxHz6NJkcXads9ZGZxemAn3IFdG-K8/view?usp=sharing)
 
 <!-- ## <a name="more">🚀 More</a> -->
 
